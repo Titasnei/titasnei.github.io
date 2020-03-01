@@ -1,0 +1,17 @@
+body{
+    background-color: #FEFE94;
+    font-size: 20pt;
+    color: #333309;
+}
+table{
+    margin: auto;
+    color: #525200;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+
+}

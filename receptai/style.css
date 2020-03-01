@@ -1,0 +1,30 @@
+body{
+    background-color: #FFF8D2;
+    text-align: center;
+    color: #B19602;
+}
+h1{
+    font-size: 40pt;
+}
+img{
+    width: auto;
+    height: 150px;
+}
+table{
+    border: black solid 2px;
+    height: 300px;
+    width: auto;
+    margin: auto;
+    
+}
+td{
+    border: black solid 2px;
+    font-size: 20pt;
+}
+a{
+  text-decoration: none;
+  color: black; 
+}
+a:hover{
+    color: red;
+}
