@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(167, 159, 45, 0.507);
+}
+#vardas{
+    text-align: right;
+    font-size: 15pt;
+}
+.didele{
+    color: rgba(182, 93, 9, 0.932);
+    font-size: 40pt;
+}
+.melyna{
+    color: rgb(24, 134, 185);
+}
+img{
+    border: solid green;
+    height: 100px;
+    width: 200px;
+}
+img:hover{
+    height: 200px;
+    width: 300px;
+}
